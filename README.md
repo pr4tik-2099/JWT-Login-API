@@ -1,4 +1,7 @@
-🔐 Secure JWT Login Authentication System
+Secure JWT Login Authentication System
+<img width="628" height="42" alt="image" src="https://github.com/user-attachments/assets/6c9fd10b-05e1-4dea-b60a-5cc03735a0f3" />
+
+
 
 A secure and modern authentication system built with ASP.NET Core Web API and JWT (JSON Web Tokens) for the backend, and React.js with Tailwind CSS for the frontend UI.
 This project demonstrates how to implement user authentication with token-based security and a responsive frontend interface.
