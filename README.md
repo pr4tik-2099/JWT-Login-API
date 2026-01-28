@@ -1,4 +1,3 @@
-Secure JWT Login Authentication System
 <img width="628" height="42" alt="image" src="https://github.com/user-attachments/assets/6c9fd10b-05e1-4dea-b60a-5cc03735a0f3" />
 
 
